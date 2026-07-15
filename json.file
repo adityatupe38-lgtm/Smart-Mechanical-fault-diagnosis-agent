@@ -1,0 +1,165 @@
+{
+  "faults": [
+    {
+      "id": 1,
+      "symptom": "Abnormal Noise",
+      "diagnosis": "Bearing Wear",
+      "severity": "High",
+      "causes": [
+        "Worn bearing",
+        "Insufficient lubrication",
+        "Bearing misalignment"
+      ],
+      "recommendation": [
+        "Inspect bearings",
+        "Apply proper lubrication",
+        "Replace damaged bearings if necessary"
+      ]
+    },
+    {
+      "id": 2,
+      "symptom": "High Vibration",
+      "diagnosis": "Rotor Imbalance",
+      "severity": "High",
+      "causes": [
+        "Rotor imbalance",
+        "Loose mounting bolts",
+        "Bent shaft"
+      ],
+      "recommendation": [
+        "Balance the rotor",
+        "Tighten mounting bolts",
+        "Inspect shaft alignment"
+      ]
+    },
+    {
+      "id": 3,
+      "symptom": "High Temperature",
+      "diagnosis": "Overheating",
+      "severity": "Critical",
+      "causes": [
+        "Poor lubrication",
+        "Cooling fan failure",
+        "Overloading"
+      ],
+      "recommendation": [
+        "Check lubrication system",
+        "Inspect cooling fan",
+        "Reduce machine load"
+      ]
+    },
+    {
+      "id": 4,
+      "symptom": "Oil Leakage",
+      "diagnosis": "Seal Failure",
+      "severity": "Medium",
+      "causes": [
+        "Damaged oil seal",
+        "Loose fittings",
+        "Cracked housing"
+      ],
+      "recommendation": [
+        "Replace oil seals",
+        "Tighten fittings",
+        "Inspect housing for cracks"
+      ]
+    },
+    {
+      "id": 5,
+      "symptom": "Low Pressure",
+      "diagnosis": "Pump Wear",
+      "severity": "Medium",
+      "causes": [
+        "Worn impeller",
+        "Air leakage",
+        "Blocked suction line"
+      ],
+      "recommendation": [
+        "Inspect impeller",
+        "Repair air leaks",
+        "Clean suction line"
+      ]
+    },
+    {
+      "id": 6,
+      "symptom": "Motor Not Starting",
+      "diagnosis": "Electrical Supply Fault",
+      "severity": "Critical",
+      "causes": [
+        "Power supply failure",
+        "Blown fuse",
+        "Damaged motor winding"
+      ],
+      "recommendation": [
+        "Check power supply",
+        "Replace fuse",
+        "Test motor winding resistance"
+      ]
+    },
+    {
+      "id": 7,
+      "symptom": "Low Speed",
+      "diagnosis": "Drive Belt Slippage",
+      "severity": "Low",
+      "causes": [
+        "Loose belt",
+        "Worn pulley",
+        "Overloading"
+      ],
+      "recommendation": [
+        "Adjust belt tension",
+        "Replace worn pulley",
+        "Reduce machine load"
+      ]
+    },
+    {
+      "id": 8,
+      "symptom": "Burning Smell",
+      "diagnosis": "Motor Overload",
+      "severity": "Critical",
+      "causes": [
+        "Overloaded motor",
+        "Electrical short circuit",
+        "Poor ventilation"
+      ],
+      "recommendation": [
+        "Turn off the machine immediately",
+        "Inspect electrical wiring",
+        "Allow the motor to cool",
+        "Check ventilation"
+      ]
+    },
+    {
+      "id": 9,
+      "symptom": "Gear Slipping",
+      "diagnosis": "Gear Wear",
+      "severity": "High",
+      "causes": [
+        "Worn gear teeth",
+        "Poor lubrication",
+        "Improper gear alignment"
+      ],
+      "recommendation": [
+        "Inspect gears",
+        "Lubricate gearbox",
+        "Replace worn gears"
+      ]
+    },
+    {
+      "id": 10,
+      "symptom": "Excessive Smoke",
+      "diagnosis": "Engine Combustion Problem",
+      "severity": "Critical",
+      "causes": [
+        "Fuel injector issue",
+        "Oil entering combustion chamber",
+        "Air filter blockage"
+      ],
+      "recommendation": [
+        "Inspect injectors",
+        "Replace air filter",
+        "Check piston rings"
+      ]
+    }
+  ]
+}
